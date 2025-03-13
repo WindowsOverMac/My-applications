@@ -1,0 +1,1 @@
+IMPORTANT! I cannot guarantee all programs are completely safe, as I've had multiple Trojans on my device from bad luck, BEFORE USING ANY OF MY PROGRAMS, RUN A SCAN. (Preferably with Microsoft Defender, BitDefender, or Kapersky)
