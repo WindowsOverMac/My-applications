@@ -1,0 +1,1 @@
+None! This project is relitively new, with little to no views. If you find an issue, please report it. Important problems will be adressed here, and their catagory. IT MAY TAKE A LITTLE WHILE FOR ISSUES TO BE ADRESSED. For now, there is no problems! :D
