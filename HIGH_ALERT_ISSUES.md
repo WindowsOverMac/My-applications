@@ -1,1 +1,5 @@
-None! This project is relitively new, with little to no views. If you find an issue, please report it. Important problems will be adressed here, and their catagory. IT MAY TAKE A LITTLE WHILE FOR ISSUES TO BE ADRESSED. For now, there is no problems! :D
+ISSUE FILE: salewin-safety.zip 
+ISSUE TYPE: Trojan
+STATUS: Severe
+Generic Name: Trojan:Win32/Malgent!MSR
+ACTIONS: Remove Salewin-Safety.Zip ASAP!!
